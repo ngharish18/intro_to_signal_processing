@@ -5,6 +5,9 @@ This is a course that provides an introduction to signal processing ideas, focus
 
 This course would be suitable for any student who has had a course on 'signals and systems' and basic probability theory.
 
+####Contents
+* [**Chapter 1: Signals and Systems**](http://nbviewer.ipython.org/urls/raw.github.com/siva82kb/intro_to_signal_processing/master/chap1_signals_and_systems/chap1_signals_and_sysetms.ipynb)
+
 
 ####Contact
 Contact the author, Sivakumar Balasubramanian at siva82kb@gmail.com
